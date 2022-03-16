@@ -1,6 +1,8 @@
 # blockgames-token-task
 
+erc20 token
 
+https://rinkeby.etherscan.io/address/0xb59f972d434476ac695d7232c1f6deffa6fb5bc6
 
 erc721 token
 
