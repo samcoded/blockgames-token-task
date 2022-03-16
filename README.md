@@ -4,7 +4,7 @@
 
 erc721 token
 
-https://rinkeby.etherscan.io/tx/0xee4a2540c4d46b3e2868901290cd3cb3919850cd56970e0aeca0b801b5735a72
+https://rinkeby.etherscan.io/address/0xc421801d87777bf91beb6a502554fa534393bc2e
 
 https://ipfs.io/ipfs/QmSmy8a7fK689jP4YpCR7NqJYfwKpLepX9v2DAwNNK7L3q
 
